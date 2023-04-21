@@ -33,7 +33,7 @@ Run the below commands in VSCode terminal to start the application
 
 ![image](https://user-images.githubusercontent.com/88041827/233525141-6e479ec3-95e6-4e46-b0a4-4c861a0a5c4c.png)
 
-h3>POST Reply with Receipt</h3>
+<h3>POST Reply with Receipt</h3>
 
 ![image](https://user-images.githubusercontent.com/88041827/233540217-50990756-04c9-473f-95eb-8bddfeb1d0cb.png)
 
