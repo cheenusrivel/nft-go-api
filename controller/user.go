@@ -19,7 +19,7 @@ func CreateUser(c *gin.Context) {
 	var user models.User
 	c.BindJSON(&user)
 	config.DB.FirstOrCreate(&user)
-	c.String(200, ReceiptHash(&user))
+	c.JSON(200, ReceiptHash(&user))
 }
 
 // Used hasing due to no decryption required at client side
