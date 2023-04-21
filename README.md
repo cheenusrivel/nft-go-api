@@ -6,7 +6,7 @@ The API will collect National Registration Identity Card (NRIC) and wallet addre
 
 Store into RDBS (PostgreSQL) the unique NRIC and wallet address
 
-POST API Response with a Receipt produce by hash the API body
+POST API Response with a Receipt produce by hash the API body (Hash is used due to one way encrytion)
 
 docker-compose.yaml script for PostgreSQL DB
 
